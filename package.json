@@ -1,0 +1,24 @@
+{
+  "name": "projet-git-3iw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedjiga-naitdjoudi/projet-git-3IW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zedjiga-naitdjoudi/projet-git-3IW/issues"
+  },
+  "homepage": "https://github.com/zedjiga-naitdjoudi/projet-git-3IW#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3",
+    "globals": "^17.4.0"
+  }
+}
